@@ -1,4 +1,5 @@
 // Надання даних через різний тип масиву
+package app;
 public class DataProvider {
 
     public String[] getProductNames() {
